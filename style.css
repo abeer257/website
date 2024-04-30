@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+}
+
+.log{
+    width: Hug (116px)px;
+height: Hug (26px)px;
+top: 36px;
+left: 149px;
+gap: 10px;
+opacity: 0px;
+
+     
+}
+/* .logo{
+    text-align: end;
+    justify-content: end;
+   -ms-flex-align: end;
+   width: Hug (116px)px;
+   height: Hug (26px)px;
+   top: 36px;
+   left: 149px;
+   gap: 10px;
+   opacity: 0px;
+   
+} */
+p{
+    width: 438px;
+    height: 52px;
+    top: 432px;
+    left: 149px;
+    gap: 0px;
+    opacity: 0px;
+     float: end;
+     color:#9A9EA5 ;
+}
+img{
+    width: 854px;
+height: 854px;
+top: -27px;
+left: 720px;
+gap: 0px;
+opacity: 0px;
+float: inline-end;
+margin:top ;
+padding: 10px;
+
+}
+h1{
+ color:   #000000
+}
+.a{
+    
+margin-top: 20%;
+}
